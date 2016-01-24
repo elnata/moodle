@@ -1,2 +1,0 @@
-# moodle
-moodle IFPB
